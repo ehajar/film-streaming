@@ -20,7 +20,7 @@ app.use(userRouter);
 app.use(favorisRouter);
 app.use(commentRouter);
 
-const PORT = process.env.port || 80
+const PORT = process.env.PORT || 80
 
 app.listen(PORT,()=>{console.log(`serveur démarré sous le lien\n\thttp://localhost:${PORT}`)})
 
