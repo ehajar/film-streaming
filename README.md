@@ -2,9 +2,10 @@
 
 ## Features
 
-- Login/signup email et mot de passe
+- Login/signup/Logout email et mot de passe
 - Ajouter favoris propres à l'utilidsateur
 - Lister Favoris
+- Pagination de l'onglet favoris
 - Ajouter commentaire
 - visualiser les commentaires écrit par d'autres utilisateurs
 - Chercher film
